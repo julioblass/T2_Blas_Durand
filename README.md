@@ -21,3 +21,9 @@ Se evidencia la preparación del repositorio, control de cambios, commits y gest
 ## Control de cambios
 
 Se realizaron modificaciones al repositorio para verificar el manejo del Working Directory, Staging Area y control de versiones mediante Git.
+
+## Gestión de ramas
+
+Rama utilizada: feature-blas.
+
+Se desarrolló una nueva funcionalidad de control de versiones de manera independiente mediante una rama feature.
