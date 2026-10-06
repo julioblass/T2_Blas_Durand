@@ -17,3 +17,7 @@ sincronizando el proyecto con GitHub.
 
 Esta sección corresponde a la evaluación práctica del Tema 3: Git y GitHub.
 Se evidencia la preparación del repositorio, control de cambios, commits y gestión del historial mediante Git.
+
+## Control de cambios
+
+Se realizaron modificaciones al repositorio para verificar el manejo del Working Directory, Staging Area y control de versiones mediante Git.

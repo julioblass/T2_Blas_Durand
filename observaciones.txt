@@ -1,0 +1,1 @@
+Observaciones de la evaluación T2: se verificó el control de cambios, el área de preparación y el repositorio local mediante Git.
